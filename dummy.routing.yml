@@ -1,0 +1,8 @@
+
+dummy.default_controller_hello:
+  path: '/dummy'
+  defaults:
+    _controller: '\Drupal\dummy\Controller\DefaultController::hello'
+    _title: 'Main'
+  requirements:
+    _permission: 'access content'

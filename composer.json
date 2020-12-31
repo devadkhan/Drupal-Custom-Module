@@ -1,0 +1,13 @@
+{
+    "name": "dummy",
+    "type": "drupal-module",
+    "description": "Dummy module",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/dummy",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/dummy",
+        "source": "http://cgit.drupalcode.org/dummy",
+    },
+}
